@@ -4,4 +4,4 @@
 
 - [Mobility Analysis](analysis/DescartesMobility.ipynb)
 - [Correlation Analysis](granger/Analysis_v5.ipynb)
-- [Granger Causality Calc](granger/GrangerCausasality.ipynb)
+- [Granger Causality Calc](granger/GrangerCausality.ipynb)
