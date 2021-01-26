@@ -2,6 +2,6 @@
 
 ## Notebooks
 
-- [MobilityAnalysis relative link](analysis/DescartesMobility.ipynb)
+- [MobilityAnalysis](analysis/DescartesMobility.ipynb)
 - Covid19-Phasewise-Mobility-Association/granger/Analysis_v5.ipynb
 - Covid19-Phasewise-Mobility-Association/granger/GrangerCausasality.ipynb
