@@ -3,5 +3,5 @@
 ## Notebooks
 
 - [Mobility Analysis](analysis/DescartesMobility.ipynb)
-- [Analysis_v5](granger/Analysis_v5.ipynb)
-- [Granger Causasality Calc](granger/GrangerCausasality.ipynb)
+- [Correlation Analysis](granger/Analysis_v5.ipynb)
+- [Granger Causality Calc](granger/GrangerCausasality.ipynb)
