@@ -1,0 +1,39 @@
+# Maximally simplify lines
+path.simplify: True
+path.simplify_threshold: 1.0
+
+# chunk up large lines into smaller lines
+agg.path.chunksize: 10000
+
+lines.linewidth: 2
+lines.solid_capstyle: round
+
+legend.fancybox: true
+
+axes.prop_cycle: cycler('color', ['008fd5', 'fc4f30', 'e5ae38', '6d904f', '8b8b8b', '810f7c'])
+
+axes.axisbelow: true
+axes.grid: true
+axes.edgecolor: cbcbcb
+axes.titlesize: 12 # 16 RT
+# axes.titlepad: 8 RT
+# axes.labelsize: 12 RT
+# axes.labelpad: 8 RT
+axes.labelcolor: 1f1f1f
+
+
+grid.linestyle: --
+grid.linewidth: 0.5
+grid.color: cbcbcb
+grid.alpha: 0.5
+
+xtick.major.size: 0
+xtick.minor.size: 0
+xtick.labelsize: 9
+xtick.major.pad: 6
+xtick.color: 3d3d3d
+ytick.major.size: 0
+ytick.minor.size: 0
+# ytick.labelsize: 9 RT
+ytick.major.pad: 6
+ytick.color: 3d3d3d

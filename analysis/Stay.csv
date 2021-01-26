@@ -1,0 +1,48 @@
+State,Order Date,Order Expiration Date,Expire Date
+Alabama*,4/3/2020,4/30/2020,4/30/2020
+Alaska*,3/27/2020,Rescinded April 24,4/24/2020
+Arizona*,3/30/2020,Extended to 5/15/2020,5/15/2020
+California*,3/19/2020,None,
+Colorado*,3/25/2020,Extended to 4/26/2020,4/26/2020
+Connecticut*,3/20/2020,Extended to 5/20/2020,5/20/2020
+Delaware*,3/22/2020,Extended to 5/31/2020,5/31/2020
+District of Columbia*,3/30/2020,"""Stay at Home"" Lifted 5/29/2020",5/29/2020
+Florida*,4/1/2020,Extended to 5/4/2020,5/4/2020
+Georgia*,4/2/2020,Extended to 4/30/2020,4/30/2020
+Hawaii*,3/23/2020,Superseded 7/17/2020,7/17/2020
+Idaho*,3/25/2020,Extended to 4/30/2020,4/30/2020
+Illinois*,3/20/2020,Superseded 5/29/2020,5/29/2020
+Indiana*,3/23/2020,"""Stay at Home"" Expired 5/18/2020",5/18/2020
+Kansas*,3/28/2020,Extended to 5/3/2020,5/3/2020
+Kentucky*,3/22/2020,None,
+Louisiana*,3/22/2020,Extended to 5/15/2020,5/15/2020
+Maine*,3/31/2020,Extended to 5/31/2020,5/31/2020
+Maryland*,3/30/2020,"""Stay-at-Home"" Superseded 5/13/2020",5/13/2020
+Massachusetts*,3/24/2020,Rescinded June 8,6/8/2020
+Michigan*,3/23/2020,Rescinded 6/1/2020,6/1/2020
+Minnesota*,3/25/2020,Extended to 5/18/2020,5/18/2020
+Mississippi*,4/1/2020,Extended to 4/27/2020,4/27/2020
+Missouri*,4/3/2020,Extended to 5/3/2020,5/3/2020
+Montana*,3/26/2020,Extended to 4/27/2020,4/27/2020
+Nevada* ,3/31/2020,"""Stay-At-Home"" Expired 5/8/2020",5/8/2020
+New Hampshire*,3/26/2020,Superseded 6/16/2020,6/16/2020
+New Jersey*,3/21/2020,Rescinded 6/9/2020,6/9/2020
+New Mexico*,3/23/2020,Extended to 5/31/2020,5/31/2020
+New York*,3/20/2020,"Final Region ""Unpaused"" 6/8/2020",6/8/2020
+North Carolina*,3/27/2020,"""Stay at Home"" Lifted 5/20/2020",5/20/2020
+Ohio*,3/22/2020,Rescinded 5/20/2020,5/20/2020
+Oklahoma*,4/1/2020,4/30/2020 0:00,4/30/2020
+Oregon*,3/23/2020,"""Stay-at-Home"" Superseded 5/14/2020",5/14/2020
+Pennsylvania*,4/1/2020,Extended to 6/4/2020,6/4/2020
+Puerto Rico*,3/15/2020,24/7 Lockdown Lifted 6/12/20,6/12/2020
+Rhode Island*,3/30/2020,Extended to 5/8/2020,5/8/2020
+South Carolina*,4/6/2020,"""Work-or-Home"" Restriction Lifted 5/4/2020",5/4/2020
+South Dakota*,3/23/2020,Order Rescinded 4/28/20,4/28/2020
+Tennessee*,3/30/2020,Repealed 4/29/2020,4/29/2020
+Texas*,3/31/2020,4/30/2020 0:00,4/30/2020
+Utah*,3/27/2020,Rescinded 5/1/2020,5/1/2020
+Vermont*,3/24/2020,"""Stay Home/Stay Safe"" Ended 5/15/2020",5/15/2020
+Virginia*,3/30/2020,"""Stay-at-Home"" Expired 6/4/2020",6/4/2020
+Washington*,3/23/2020,Extended to 5/31/2020,5/31/2020
+West Virginia*,3/23/2020,"""Stay-at-Home"" Expired 5/4/2020",5/4/2020
+Wisconsin*,3/24/2020,Overturned 5/13/2020,5/13/2020
